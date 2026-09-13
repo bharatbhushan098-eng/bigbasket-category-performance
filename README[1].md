@@ -79,3 +79,6 @@ Run `analysis.ipynb` from the repository root. It loads `orders_raw.csv` and `pr
 ## AI-assisted prompting
 
 See `ai_log.md` for both required RCTCF prompts and the concrete verification performed for each.
+## Live Tableau Public Dashboard
+
+https://public.tableau.com/app/profile/bharat.tomar/viz/BigBasketCategoryPerformenceDashboard/BigBasketCategoryPerformanceDashboard?publish=yes
