@@ -59,8 +59,6 @@ The workbook contains Monthly Data, Category Targets, Pivot Table, and Category 
 
 ## Tableau Public dashboard
 
-**Live Tableau Public URL:** `PASTE_YOUR_LIVE_TABLEAU_PUBLIC_URL_HERE`
-
 The final dashboard should contain:
 - monthly revenue trend for Jan–Jun 2026,
 - descending category revenue bar chart,
