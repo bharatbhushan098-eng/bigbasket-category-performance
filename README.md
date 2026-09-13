@@ -59,7 +59,7 @@ The workbook contains Monthly Data, Category Targets, Pivot Table, and Category 
 
 ## Tableau Public dashboard
 
-**Live Tableau Public URL:** `PASTE_YOUR_LIVE_TABLEAU_PUBLIC_URL_HERE`
+**Live Tableau Public URL:** `https://public.tableau.com/app/profile/bharat.tomar/viz/BigBasketCategoryPerformenceDashboard/BigBasketCategoryPerformanceDashboard?publish=yes`
 
 The final dashboard should contain:
 - monthly revenue trend for Jan–Jun 2026,
